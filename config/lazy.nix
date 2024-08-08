@@ -6,8 +6,8 @@
 {
   plugins.lazy = {
     enable = true;
-    #plugins = [
-    #  telescope
-    #];
+    plugins = [
+      #nvim-lualine
+    ];
   };
 }
