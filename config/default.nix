@@ -13,13 +13,17 @@
     #./ui/alpha.nix
     ./ui
 
+    #completion
+    ./completion
+    
     # languages
     ./languages/treesitter/treesitter.nix
     ./languages/treesitter/treesitter-context.nix
     ./languages/treesitter/treesitter-textobjects.nix
     ./languages/treesitter/ts-context-commentstring.nix
     #    ./languages/nix
-
+    ./lsp
+    
     ./utils
   ];
 }

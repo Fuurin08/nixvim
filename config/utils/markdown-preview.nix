@@ -2,7 +2,7 @@
   plugins.markdown-preview = {
     enable = true;
     settings = {
-      browser = "";
+      browser = "firefox";
       theme = "dark";
     };
   };
