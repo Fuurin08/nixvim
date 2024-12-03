@@ -5,6 +5,6 @@
     ./indent-blankline.nix
     ./nvim-notify.nix
     ./noice.nix
-   # ./dressing-nvim.nix
+    ./dressing.nix
   ];
 }

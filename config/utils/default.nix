@@ -1,7 +1,7 @@
 {
   imports = [
     ./mini.nix
-    ./wilder.nix
+#    ./wilder.nix
     ./nvim-autopairs.nix
     ./todo-comments.nix
     ./project-nvim.nix
